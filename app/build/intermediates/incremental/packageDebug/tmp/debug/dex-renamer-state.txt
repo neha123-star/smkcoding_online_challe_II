@@ -1,0 +1,4 @@
+#Wed May 20 07:01:48 ICT 2020
+base.0=G\:\\Covid19\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
